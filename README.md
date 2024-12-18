@@ -24,6 +24,21 @@ This project is designed to serve you fresh, random jokes with every click—bec
 - Your colleagues might question your sanity after hearing these jokes.
 
 # Outputs:
-![image](https://github.com/user-attachments/assets/03c381f3-d7cd-47d2-9597-b45ded2c9936)
-![image](https://github.com/user-attachments/assets/eeff07a5-6f11-45c7-95c3-fb77051705f5)
-![image](https://github.com/user-attachments/assets/1dd427fa-c33d-41bb-9275-a739a419fec1)
+~~~bash
+Do you want to hear a joke? (yes/no): yes
+
+Here is a joke for you:
+The Internet: where men are men, women are men, and children are FBI agents.
+
+Do you want to hear a joke? (yes/no): yes
+
+Here is a joke for you:
+Speed dating is useless. 5 minutes is not enough to properly explain the benefits of the Unix philosophy.
+
+Do you want to hear a joke? (yes/no): yes
+
+Here is a joke for you: ['hip', 'hip'] (hip hip array!)
+
+Do you want to hear a joke? (yes/no): yes
+
+Here is a joke for you: Writing PHP is like peeing in the swimming pool, everyone did it, but we don't need to bring it up in public.
